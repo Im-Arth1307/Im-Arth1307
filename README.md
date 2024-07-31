@@ -3,7 +3,6 @@
 <h3 align="center">A passionate AI/ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/projects/404/b85584166434737.Y3JvcCwzMTk2LDI0OTksMTUwLDA.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-arth1307&label=Profile%20views&color=0e75b6&style=flat" alt="im-arth1307" /> </p>
 
 - 🔭 I’m currently working on [an AI Assistant for desktop](https://github.com/Im-Arth1307/Assistant_AI_v1)
 
