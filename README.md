@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/460/880/large/pixel-jeff-chill-mario-2023-2.jpg?1678633376)](https://github.com/Im-Arth1307)
+[![MasterHead](https://www.behance.net/gallery/170466977/Chill-of-the-Wild)](https://github.com/Im-Arth1307)
 <h1 align="center">Hi 👋, I'm Atharva Jakhetiya</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/projects/404/b85584166434737.Y3JvcCwzMTk2LDI0OTksMTUwLDA.jpg">
